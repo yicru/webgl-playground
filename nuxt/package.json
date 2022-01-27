@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "nuxt": "^2.0.0",
-    "three": "^0.113.2"
+    "three": "^0.137.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^2.0.0",
